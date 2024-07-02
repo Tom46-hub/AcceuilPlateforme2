@@ -1,0 +1,30 @@
+.navbar { 
+    
+    text-align: center ;
+    display: flex;
+    justify-content: space-around;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: white;
+    width: 100vw;
+    text-align: center;
+    align-items: center; }
+
+ body { background-image:url(code.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0px;}
+        
+
+.logo {
+        display: flex;
+        justify-content: center; }
+
+
+.plat2 {
+        color: rgb(172, 152, 152);
+        flex-direction:row;
+        font-size:large;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        display:block
+
+ }
