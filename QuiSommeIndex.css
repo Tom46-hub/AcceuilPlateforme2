@@ -1,0 +1,31 @@
+nav { 
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 100vw;}
+
+body {background-color: #066db3;
+    margin: 0px;}
+
+
+h1 { position: relative;
+     left: 100px;
+     top: 30px;
+     font-size: 43px;
+     color: white;}
+
+p { display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: left;
+    margin-right: 570px;
+    color: white;
+
+
+}
+
+.plat {
+        white-space:nowrap;
+}
+
+
